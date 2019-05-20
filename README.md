@@ -1,2 +1,3 @@
-# my-portfolio
-Professional Portfolio
+# Anirudh Pillutla's Portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS
