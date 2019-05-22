@@ -6,7 +6,7 @@ const myWork = [
   {
     'title': "Portfolio Boilerplate",
     'desc': "This is my professional portfolio website. It uses ReactJS, Babel, Jest, AWS Codebuild, AWS CodePipeline, Python in AWS Lambda, AWS S3, Git and GitHub, HTML, CSS",
-    'href': "https://example.com",
+    'href': "https://github.com/AnvenRed/my-portfolio",
     'image': {
       'desc': "A Serverless Portfolio",
       'src': "images/example1.png",
@@ -38,7 +38,3 @@ const myWork = [
 ]
 
 ReactDOM.render(<ExampleWork work={myWork}/>, document.getElementById('example-work'));
-
-console.log("Loaded react-dom");
-
-console.log("webpack works!");
